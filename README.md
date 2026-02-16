@@ -1,6 +1,6 @@
 ![Banner](./imgs/banner.png)
 
-# 🧰 Repo2Mardown
+# 🧰 Repo2Markdown
 
 A lightweight Python CLI tool to **dump** an entire code repository (structure + file contents) into a single Markdown (`.md`) file and **restore** it back from that file. Ideal for snapshotting, code review sharing, context-providing for LLMs, or version-neutral archival.
 
